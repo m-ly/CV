@@ -6,6 +6,7 @@ body, html {
     padding: 0;
     width: 100%;
     text-align: center;
+    color:rgb(31, 30, 30);
 }
  
 footer {
@@ -36,15 +37,15 @@ h1,h2,h3 {
     height: 14em;
     width: 26em;
     position: absolute;
-    margin-top: 7em;
-    left: 26.5em;
+    top: 9.8em;
+    left: 27em;
     object-fit: cover;
 }
 
 #left-cassette {
     position:absolute;
-    top: 5.1em;
-    left:15em;
+    margin-top: 5.1em;
+    margin-left:15em;
     z-index: 1;
     color:black;
     font-family: 'Permanent Marker', cursive;
@@ -52,8 +53,8 @@ h1,h2,h3 {
 
 #right-cassette {
     position:absolute;
-    top: 5.1em;
-    left:20em;
+    margin-top: 5.1em;
+    margin-left:20em;
     z-index: 1;
     color:black;
     font-family: 'Permanent Marker', cursive;
@@ -81,7 +82,7 @@ h1,h2,h3 {
 #profile-pic {
     height:10%;
     width: 10%;
-    border-radius: 50%;
+    border-radius: 30%;
     margin-left: auto;
     margin-right: auto;
     display: block;
@@ -98,12 +99,14 @@ h1,h2,h3 {
 .top-container {
     background-color: #063c46;
     height: 30em;
-    width: 90%;
+    width: 100%;
     color:#D4F1F4 ;
     text-align: center;
     position:relative;
-    padding: 4em;
     overflow: clip;
+    display:inline-block;
+    padding-bottom: 8em;
+
 }
 
 
