@@ -36,10 +36,11 @@ h1,h2,h3 {
 #cassette-image {
     height: 14em;
     width: 26em;
-    /*position: absolute; */
+    /*position: absolute;
+     top: 9.8em;
+    left: 27em;*/
     margin: auto
-    top: 9.8em;
-    left: 27em;
+   
     object-fit: cover;
 }
 
