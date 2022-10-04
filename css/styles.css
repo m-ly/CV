@@ -45,8 +45,8 @@ h1,h2,h3 {
     
 }
 
-#left-cassette {
-    position:absolute;
+#cassette-txt {
+    position:relative;
     margin-top: 5.1em;
     margin-left:15em;
     z-index: 1;
@@ -54,14 +54,6 @@ h1,h2,h3 {
     font-family: 'Permanent Marker', cursive;
 }
 
-#right-cassette {
-    position:absolute;
-    margin-top: 5.1em;
-    margin-left:20em;
-    z-index: 1;
-    color:black;
-    font-family: 'Permanent Marker', cursive;
-}
 
 #social-media, .copyright {
     margin: auto;
