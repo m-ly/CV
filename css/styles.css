@@ -40,8 +40,7 @@ h1,h2,h3 {
      top: 9.8em;
     left: 27em;
     object-fit: cover;*/
-   margin-left: auto;
-   margin-right: auto;
+   margin: auto;
    display: block;
     
 }
