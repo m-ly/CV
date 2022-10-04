@@ -46,7 +46,7 @@ h1,h2,h3 {
 }
 
 #cassette-txt {
-    position:relative;
+    position: absolute;
     margin-top: 5.1em;
     margin-left:15em;
     z-index: 1;
