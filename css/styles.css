@@ -40,9 +40,9 @@ h1,h2,h3 {
      top: 9.8em;
     left: 27em;
     object-fit: cover;*/
-   margin: auto;
-   display: block;
-    
+    margin-top: 5em;
+    margin: auto;
+    display: block;  
 }
 
 #cassette-txt {
@@ -50,7 +50,7 @@ h1,h2,h3 {
     margin-top: 5.1em;
     margin-left:15em;
     z-index: 1;
-    color:black;
+    color: black;
     font-family: 'Permanent Marker', cursive;
 }
 
