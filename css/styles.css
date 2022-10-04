@@ -38,11 +38,11 @@ h1,h2,h3 {
     width: 26em;
     /*position: absolute;
      top: 9.8em;
-    left: 27em;*/
-    display: flex;
-    justify-content: center;
+    left: 27em;
+    object-fit: cover;*/
+   margin: auto;
    
-    object-fit: cover;
+    
 }
 
 #left-cassette {
