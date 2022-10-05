@@ -1,0 +1,137 @@
+@import url('https://fonts.googleapis.com/css2?family=Dongle:wght@300&family=Luxurious+Roman&family=Merriweather:ital@1&family=Permanent+Marker&display=swap');
+
+
+body, html {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    text-align: center;
+    color:rgb(31, 30, 30);
+}
+ 
+footer {
+    background-color: #063c46;
+    color:#e7ebea;
+    height: 3em;
+    padding: .5em;
+    margin-top: 3em;
+}
+
+ul {
+    display:table;
+    margin:  auto;
+    text-align: left;
+}
+
+a:any-link {
+    text-decoration: none;
+}
+
+h1,h2,h3 {
+    font-family: 'Permanent Marker', cursive;
+    color: #4EA2D9;
+}
+
+
+#cassette-image { 
+    height: 14em;
+    width: 26em;
+    margin-top: 10em;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#cassette-txt {
+    position: absolute;
+    margin-top: -6.5em;
+    margin-left:17.5em;
+    z-index: 1;
+    color: black;
+    font-family: 'Permanent Marker', cursive;
+}
+
+
+#social-media, .copyright {
+    margin: auto;
+}
+
+#skills-img {
+    height: 5%;
+    width: 5%;
+
+}
+
+#hobbies-img {
+    height: 5%;
+    width: 5%
+}
+
+#cert {
+    height: 5%;
+    width: 5%;
+}
+#profile-pic {
+    height:10%;
+    width: 10%;
+    border-radius: 30%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+#copyright {
+    margin-top: 1em;
+}
+
+#hobbies-link {
+    font-family: 'Permanent Marker', cursive;
+    text-decoration: none;
+}
+.top-container {
+    background-color: #063c46;
+    height: 30em;
+    width: 100%;
+    color:#D4F1F4 ;
+    text-align: center;
+    position:relative;
+    overflow: clip;
+    display:inline-block;
+    padding-bottom: 8em;
+
+}
+
+
+.btn { 
+    background-image: linear-gradient(#4EA2D9,#063c46);
+    border-radius: 5px;
+    box-shadow: #063c46;
+    padding: .7em;
+    margin: 1em;
+
+
+}
+
+.btn:hover {
+    background-image: linear-gradient(#063c46, #4EA2D9);
+}
+
+
+.cert-row {
+    margin-top: 3em;
+}
+
+.skills-row {
+    margin-top: 3em;
+}
+
+.work-experience {
+    margin-top: 3em;
+}
+
+.hobbies {
+    margin-top: 3em;
+}
+
+.contact {
+    margin-top: 3em;
+}
