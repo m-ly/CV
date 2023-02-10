@@ -4,7 +4,7 @@
 body, html {
     margin: 0;
     padding: 0;
-    width: 80%;
+    width: 100%;
     text-align: center;
     color:rgb(31, 30, 30);
 }
@@ -87,6 +87,7 @@ h1,h2,h3 {
     font-family: 'Permanent Marker', cursive;
     text-decoration: none;
 }
+
 .top-container {
     background-color: #063c46;
     height: 30em;
@@ -98,6 +99,11 @@ h1,h2,h3 {
     display:inline-block;
     padding-bottom: 8em;
 
+}
+
+.middle-container {
+    width: 80%;
+    text-align: center;
 }
 
 
