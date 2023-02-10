@@ -103,6 +103,8 @@ h1,h2,h3 {
 
 .middle-container {
     width: 80%;
+    margin-left: auto;
+    margin-right: auto;
     text-align: center;
 }
 
